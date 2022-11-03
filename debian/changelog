@@ -1,3 +1,17 @@
+dillo (3.1.0-0.1~bl+git20211214) beryllium; urgency=medium
+
+  * Non-maintainer upload.
+  * Upstream source from 
+     https://github.com/w00fpack/dilloNG
+     git commit 2804e6e
+  * Adjust patches to match changed files.
+  * Edit debian/docs to ship older files in devdocs.
+  * Add Build-Depends: libmbedtls-dev for ssl support.
+  * Add patch to revert background colour of bookmarks page
+     to the previous grey, to better match BunsenLabs Beryllium.
+
+ -- John Crawley <john@bunsenlabs.org>  Thu, 03 Nov 2022 14:35:57 +0900
+
 dillo (3.0.5-8) UNRELEASED; urgency=medium
 
   * Change Homepage URL to archived copy in the Wayback Machine for
