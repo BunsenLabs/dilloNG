@@ -66,7 +66,7 @@ Forwarded: no
  /* Start a dpi filter plugin after accepting the pending connection
 --- a/dpid/dpid_common.h
 +++ b/dpid/dpid_common.h
-@@ -38,10 +38,7 @@
+@@ -37,10 +37,7 @@
  
  
  /*! Error codes for dpid */
