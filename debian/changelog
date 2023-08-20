@@ -1,3 +1,9 @@
+dillo (3.1.0-0.1~bl1+git20211214) boron; urgency=medium
+
+  * Boron release, no other changes.
+
+ -- John Crawley <john@bunsenlabs.org>  Sun, 20 Aug 2023 16:16:20 +0900
+
 dillo (3.1.0-0.1~bl+git20211214) beryllium; urgency=medium
 
   * Non-maintainer upload.
